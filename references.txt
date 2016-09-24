@@ -1,0 +1,8 @@
+REFERENCES
+
+http://stackoverflow.com/questions/9206669/making-an-table-with-printf-in-c
+http://stackoverflow.com/questions/2461667/centering-strings-with-printf
+http://www.tutorialspoint.com/c_standard_library/c_function_sprintf.htm
+http://www.tutorialspoint.com/c_standard_library/c_function_sprintf.htm
+http://www.tutorialspoint.com/c_standard_library/c_function_atoi.htm
+http://man7.org/linux/man-pages/man3/strftime.3.html

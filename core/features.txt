@@ -1,0 +1,22 @@
++may local time
++may notif ng error
++fool-proof input
++may checker sa lahat ng input
++chinecheck nya kung underage or beyond sa retirment age yung iniput
++chinecheck kung within legal na ba sya nung date of employment
++iprprint nya yung menu para sa position code
++dapat legal age na sya sa date of employment
++pinapkita sa user yung entries nya bago bumali sa main menu
++pwede magedit ng magkapareho na name
++case insensitivity
++kapag nagdelete ng user mawawala sya sa appointment kapag nakaassign sya dun
++kapag delete all mawawala lahat ng nakaassign sa appointment
++user-friendly interface
++5-row table limit 
++nililimit nya yung string na lalabas sa column
++hindi lalabas yung wala pang nakaassign na employee position
++chinecheck nya kung nageexist na ba yung empl no or appt no na yun
++iprprint nya lahat ng employee pag hihingi ng employee id
++kukunin nya yung name ng assigned employee number
++chinecheck nya kung may conflict ba sa appointment
+
